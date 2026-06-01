@@ -4,17 +4,14 @@ PrepHire AI is a state-aware, dynamic **AI Mock Interview Simulation Engine** bu
 
 ---
 
-## 📸 Project Demonstration (Video Submission)
-
-> [!IMPORTANT]
-> **Mandatory Screen-Recording Placeholder**  
-> Insert your live, working project screen-recording demonstration below:
+##📸Project Demonstration (Video Submission)
+> working project screen-recording demonstration below:
 > 
-> [Replace this link with your recorded video or embed a Youtube/Loom link]
+> [https://drive.google.com/file/d/1IMtyy1z8LR5-6g5BZcjkBsuXNmvDwDow/view?usp=drivesdk]
 
 ---
 
-## ✨ Core Features & Requirements Coverage
+##Core Features & Requirements Coverage
 
 The engine meets all the specific requirements from the **UnsaidTalks Hack2Hire** evaluation rubric:
 
@@ -89,7 +86,6 @@ Run the standalone unit test suite to inspect scoring equations and transition r
 ```bash
 node testEngine.js
 ```
-All tests should execute successfully:
 ```
 =========================================
 🧪 AI Mock Interview Engine Verification

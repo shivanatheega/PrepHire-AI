@@ -59,7 +59,6 @@ interview-simulation-engine/
 
 ---
 
-## 🚀 Getting Started
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed (v18+ or v20+ recommended).

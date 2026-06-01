@@ -3,7 +3,6 @@
 PrepHire AI is a state-aware, dynamic **AI Mock Interview Simulation Engine** built for the **UnsaidTalks Hack2Hire Hackathon** on Unstop. The platform evaluates technical candidates on resume alignment, job descriptions, time management, and core technical competencies.
 
 ---
-
 ##📸Project Demonstration (Video Submission)
 > working project screen-recording demonstration below:
 > 
